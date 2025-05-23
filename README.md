@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nguyen Van A</h1>
-<h3 align="center">A passionate Web Developer from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi 👋, I'm Tran Anh Kiet</h1>
+<h3 align="center">A passionate Front-End Developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff;Let%E2%80%99s+code+something+great!" />
@@ -7,12 +7,18 @@
 
 ---
 
-- 🔭 I’m currently working on **Full-Stack Projects**
-- 🌱 I’m currently learning **React, Node.js, TypeScript**
-- 💬 Ask me about **JavaScript, Web Dev, UI/UX**
-- 📫 How to reach me: **your.email@example.com**
+- 🔭 I’m currently working on **Front-End Projects**
+- 🌱 I’m currently learning **React, TypeScript, UI/UX Design**
+- 💬 Ask me about **JavaScript, CSS, Responsive Design**
+- 📫 Reach me at: **kiettran0504@gmail.com**
 - ⚡ Fun fact: I love ☕ + 🎧 + 💻
 
+---
+## 📚 Currently Learning
+
+- 🌐 Next.js & Tailwind CSS
+- 📦 Zustand, Redux Toolkit
+- 🧪 Unit Testing with Vitest / React Testing Library
 ---
 
 ## 🛠️ Tech Stack
@@ -21,24 +27,30 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trananhkiet0504&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trananhkiet0504&theme=tokyonight" />
 </p>
+
+---
+## 🧰 My Favorite Tools
+
+📝 VS Code • 🌐 Chrome DevTools • 🎨 Figma • 🔁 Git • 🔍 Postman • ⚡ Vercel
 
 ---
 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/trananhkiet2301/"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kiettr54/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="mailto:kiettran0504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
 </p>
